@@ -1,5 +1,5 @@
 "use client";
-import MagicBento, { BentoCardProps } from "../MagicBento";
+import MagicBento, { BentoCardProps } from "./MagicBento";
 import React from "react";
 
 // Social Media Icons
